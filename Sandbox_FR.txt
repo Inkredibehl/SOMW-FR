@@ -1,0 +1,14 @@
+Sandbox_FR = {
+
+	Sandbox_SOMW = "Simple Overhaul: Melee Weapons",
+
+	Sandbox_SOMW_CondLowerChanceMultiplier = "Multiplicateur de chance de baisse de condition des armes de mêlée : ",
+	Sandbox_SOMW_CondLowerChanceMultiplier_tooltip = "Réduit la chance de rupture des armes de mêlée par le multiplicateur spécifié.<br>Par exemple : choisir une valeur de "3" signifie que l'arme se cassera environ 3 fois plus lentement.",
+		
+	Sandbox_SOMW_CondLowerChanceMultiplier_Values_option1 = "1",	
+	Sandbox_SOMW_CondLowerChanceMultiplier_Values_option2 = "2",			
+	Sandbox_SOMW_CondLowerChanceMultiplier_Values_option3 = "3",
+	Sandbox_SOMW_CondLowerChanceMultiplier_Values_option4 = "5",
+	Sandbox_SOMW_CondLowerChanceMultiplier_Values_option5 = "10",	
+	
+}

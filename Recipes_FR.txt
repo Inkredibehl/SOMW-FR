@@ -1,0 +1,49 @@
+Recipes_FR = {
+
+	Recipe_Make_Shovel_Axe = "Fabriquer une Hache Improvisée en Métal à partir d'une Pelle",	
+	Recipe_Make_Shovel_Spear = "Fabriquer une Lance Improvisée en Métal à partir d'une Pelle",	
+	
+	Recipe_Make_Sharp_Trowel = "Fabriquer une Truelle pointue",
+	
+	Recipe_Disassemble_Garden_Shears = "Désassembler la Cisaille de jardin",	
+
+	Recipe_Saw_Off_Pipe = "Scier le Tuyau en deux",		
+	Recipe_Saw_Off_Bar = "Scier la Barre en deux",	
+
+	Recipe_Break_Plank_In_Half = "Briser la Planche en deux",	
+	Recipe_Saw_Plank_In_Half = "Scier la Planche en deux",
+	
+	Recipe_Break_Tree_Branch_In_Half = "Briser la Branche d'Arbre en deux",		
+	Recipe_Saw_Tree_Branch_In_Half = "Scier la Branche d'Arbre en deux",
+	Recipe_Cut_Tree_Branch_In_Half = "Couper la Branche d'Arbre en deux",	
+
+	Recipe_Build_Spiked_Half_Plank = "Fabriquer une Demi Planche Clouée",	
+	
+	Recipe_Build_Wired_Baseball_Bat = "Fabriquer une Batte de Baseball enroulée de Fil",	
+	Recipe_Build_Barbed_Wired_Baseball_Bat = "Fabriquer une Batte de Baseball Barbelée",	
+	Recipe_Build_Bolted_Baseball_Bat = "Fabriquer une Batte de Baseball Boulonnée",		
+
+	Recipe_Create_Spear = "Fabriquer une Lance",
+	Recipe_Create_Plank_Spear = "Fabriquer une Lance",
+	
+	Recipe_Convert_Into_Plank_Spear = "Convertir en Lance",
+	
+	Recipe_Create_Spear_Chipped_Stone = "Fabriquer une Lance en Pierre",
+
+	Recipe_Attach_Combat_Knife_to_Spear = "Attacher le Couteau de Combat à la Lance",
+	Recipe_Attach_Military_Knife_to_Spear = "Attacher le Couteau Militaire à la Lance",
+	Recipe_Attach_Camping_Knife_to_Spear = "Attacher le Couteau de Camping à la Lance",
+	Recipe_Attach_Military_Machete_to_Spear = "Attacher la Machette Militaire à la Lance",
+	Recipe_Attach_Sharp_Trowel_to_Spear = "Attacher la Truelle pointue à la Lance",
+	Recipe_Attach_Garden_Shear_Blade_to_Spear = "Attacher la Cisaille de jardin à la Lance",
+	Recipe_Attach_Kukri_to_Spear = "Attacher le Kukri à la Lance",
+	
+	Recipe_Reclaim_Combat_Knife_from_Spear = "Retirer le Couteau de Combat de la Lance",
+	Recipe_Reclaim_Military_Knife_from_Spear = "Retirer le Couteau Militaire de la Lance",
+	Recipe_Reclaim_Camping_Knife_from_Spear = "Retirer le Couteau de Camping de la Lance",
+	Recipe_Reclaim_Military_Machete_from_Spear = "Retirer la Machette Militaire de la Lance",
+	Recipe_Reclaim_Sharp_Trowel_from_Spear = "Retirer la Truelle pointue de la Lance",
+	Recipe_Reclaim_Garden_Shear_Blade_from_Spear = "Retirer la Cisaille de jardin de la Lance",
+	Recipe_Reclaim_Kukri_from_Spear = "Retirer le Kukri de Lance",	
+	
+}
